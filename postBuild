@@ -1,5 +1,5 @@
-wget -q -O Nice_Ride_2017_Station_Locations.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017#Nice_Ride_2017_Station_Locations.csv"
+wget -q -O Nice_Ride_2017_Station_Locations.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017/downloads/Nice_Ride_2017_Station_Locations.csv/2"
 
-wget -q -O Nice_ride_trip_history_2017_season.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017#Nice_ride_trip_history_2017_season.csv"
+wget -q -O Nice_ride_trip_history_2017_season.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017/downloads/Nice_ride_trip_history_2017_season.csv/2"
 
-wget -q -O WeatherDailyMinneapolis2017.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017#WeatherDailyMinneapolis2017.csv"
+wget -q -O WeatherDailyMinneapolis2017.csv "https://www.kaggle.com/brendanhasz/nice-ride-mn-2017/downloads/WeatherDailyMinneapolis2017.csv/2"
